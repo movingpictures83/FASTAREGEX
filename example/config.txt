@@ -1,0 +1,2 @@
+Prefix plugins/FASTAREGEX/example/
+Plugin FASTAREGEX inputfile parameters.fastaregex.txt outputfile motifs-mrna.out
